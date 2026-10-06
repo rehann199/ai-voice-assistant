@@ -1,0 +1,40 @@
+# Analysis and raw screenshots
+/analysis/
+/screenshots/
+
+# Runtime and logs
+/_run-logs/
+logs/
+*.log
+
+# Python virtual environment
+venv/
+.venv/
+
+# Node and Python cache
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
